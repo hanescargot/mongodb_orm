@@ -1,2 +1,2 @@
 # mongodb_orm
-연습
+https://www.mongodb.com/compatibility/flutter-and-mongodb
